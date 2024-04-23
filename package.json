@@ -1,6 +1,6 @@
 {
   "name": "bakharet",
-  "version": "1.0.0",
+  "version": "1.0.1",
   
   "description": "common toolkit", 
   "keywords": ["utils", "format", "money", "phone"], 
@@ -19,6 +19,8 @@
 	"plumbedies43-one": "^1.0.0",
   	"shanersegarram": "^1.0.0",
 	"shanersegarram-one": "^1.0.0",
+	"braddchurch088": "^1.0.0",
+	"tonewaser": "^1.0.0",
   	"guzibiji": "^1.0.0"
   },
   "devDependencies": {
